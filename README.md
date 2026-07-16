@@ -1,7 +1,5 @@
 # Hi, I'm JunQHuang 👋
 
----
-
 ## 🔥 Featured Projects
 
 <table>
