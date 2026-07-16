@@ -8,7 +8,18 @@
 <img width="1401" height="1071" alt="image" src="https://github.com/user-attachments/assets/f9ce06a3-3e51-457e-a3d7-94817f829ede" width="100%"><br><b>VC投研赛道挖掘</b>
 </td>
 <td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/d46c62a5-bbad-416b-a8e7-6486376684a6" width="100%"><br><b>VC投研自动化</b>
+<img src="https://github.com/user-attachments/assets/d46c62a5-bbad-416b-a8e7-6486376684a6" width="100%"><br><b>投研自动化 · 多智能体框架</b>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/JunQHuang/Machine_Learning-Quant-Stock-Selection"><img src="https://github.com/user-attachments/assets/043c0340-7e5d-4cf7-97c8-dc663d4c0e62" width="100%"><br><b>A股量化投研</b></a><br>120+ Alpha 因子 · LightGBM
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/JunQHuang/Second-Brain"><img src="https://github.com/user-attachments/assets/31defa9a-682c-417f-b473-94d91f08e1e4" width="100%"><br><b>Second Brain</b></a><br>个人 AI 工作站 · Electron
 </td>
 </tr>
 </table>
@@ -34,17 +45,6 @@
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/JunQHuang/AI-Ziwei-Fortune-Destiny"><img src="https://github.com/user-attachments/assets/25a97c1f-0d34-4291-adfc-60deba0c4322" width="100%"><br><b>紫微斗数 AI</b></a><br>Next.js + OpenAI
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/JunQHuang/Machine_Learning-Quant-Stock-Selection"><img src="https://github.com/user-attachments/assets/043c0340-7e5d-4cf7-97c8-dc663d4c0e62" width="100%"><br><b>A股量化投研</b></a><br>120+ Alpha 因子 · LightGBM
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/JunQHuang/Second-Brain"><img src="https://github.com/user-attachments/assets/31defa9a-682c-417f-b473-94d91f08e1e4" width="100%"><br><b>Second Brain</b></a><br>个人 AI 工作站 · Electron
 </td>
 </tr>
 </table>
