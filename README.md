@@ -1,6 +1,6 @@
 # Hi, I'm JunQHuang 👋
 
-> AI 应用 · 金融领域
+> AI 应用
 
 ---
 
