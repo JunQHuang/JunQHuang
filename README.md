@@ -5,10 +5,10 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img width="1401" height="1071" alt="image" src="https://github.com/user-attachments/assets/f9ce06a3-3e51-457e-a3d7-94817f829ede" width="100%"><br><b>VC投研赛道挖掘</b>
+<img width="1401" height="1071" alt="image" src="https://github.com/user-attachments/assets/f9ce06a3-3e51-457e-a3d7-94817f829ede" width="100%"><br><b>VC Sourcing & 评分系统</b>
 </td>
 <td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/d46c62a5-bbad-416b-a8e7-6486376684a6" width="100%"><br><b>投研自动化 · 多智能体框架</b>
+<img src="https://github.com/user-attachments/assets/d46c62a5-bbad-416b-a8e7-6486376684a6" width="100%"><br><b>多智能体模拟 IC 投委会</b>
 </td>
 </tr>
 </table>
