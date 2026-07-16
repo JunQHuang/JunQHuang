@@ -43,14 +43,6 @@
 
 ---
 
-## 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunQHuang&theme=dark&hide_border=true&area=true" alt="GitHub Activity Graph">
-</p>
-
----
-
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/junqin-huang/)
