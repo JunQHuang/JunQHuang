@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/JunQHuang/Machine_Learning-Quant-Stock-Selection"><img src="https://github.com/user-attachments/assets/c556c11e-0a76-4d5d-ae6a-cd96ff9ce1fd" width="100%"><br><b>A股量化投研</b></a><br>120+ Alpha 因子 · LightGBM
+<a href="https://github.com/JunQHuang/Machine_Learning-Quant-Stock-Selection"><img src="https://github.com/user-attachments/assets/043c0340-7e5d-4cf7-97c8-dc663d4c0e62" width="100%"><br><b>A股量化投研</b></a><br>120+ Alpha 因子 · LightGBM
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/JunQHuang/policy_analysis_system"><img src="https://github.com/user-attachments/assets/e3c4d39f-fe8a-41e6-b92d-6756a8212599" width="100%"><br><b>政策分析系统</b></a><br>RAG + Milvus + LLM Agent
