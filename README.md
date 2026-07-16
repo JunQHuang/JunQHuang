@@ -1,7 +1,5 @@
 # Hi, I'm JunQHuang 👋
 
-> AI 应用
-
 ---
 
 ## 🔥 Featured Projects
