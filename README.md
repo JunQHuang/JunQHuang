@@ -1,4 +1,5 @@
 # Hi, I'm JunQHuang 👋
+> AI Engineer · 金融投研自动化
 ---
 ## 🔥 Featured Projects
 
