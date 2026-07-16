@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github.com/user-attachments/assets/253b92a5-a948-4734-8d67-051a8f82919f" width="100%"><br><b>VC投研自动化</b>
+<img width="1401" height="1071" alt="image" src="https://github.com/user-attachments/assets/f9ce06a3-3e51-457e-a3d7-94817f829ede" width="100%"><br><b>VC投研赛道挖掘</b>
 </td>
 <td align="center" width="50%">
 <img src="https://github.com/user-attachments/assets/d46c62a5-bbad-416b-a8e7-6486376684a6" width="100%"><br><b>VC投研自动化</b>
