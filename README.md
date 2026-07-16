@@ -53,5 +53,4 @@
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/junqin-huang/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/JunQHuang)
