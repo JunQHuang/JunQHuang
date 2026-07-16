@@ -27,24 +27,24 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/JunQHuang/shiji-ai-personality"><img src="https://github.com/user-attachments/assets/465a1a61-bae8-423a-a892-9f309ca3cd6f" width="100%" height="300"><br><b>识己</b></a><br>AI性格画像 · 已上线
+<a href="https://github.com/JunQHuang/shiji-ai-personality"><img src="https://github.com/user-attachments/assets/465a1a61-bae8-423a-a892-9f309ca3cd6f" width="100%"><br><b>识己</b></a><br>AI性格画像 · 已上线
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/JunQHuang/a-stock-sentiment-panel"><img src="https://github.com/user-attachments/assets/c362de19-03d0-4869-b8d0-1a1447fd1b39" width="100%" height="300"><br><b>A股情绪面板</b></a><br>多源数据 + AI 量化情绪
+<a href="https://github.com/JunQHuang/a-stock-sentiment-panel"><img src="https://github.com/user-attachments/assets/c362de19-03d0-4869-b8d0-1a1447fd1b39" width="100%"><br><b>A股情绪面板</b></a><br>多源数据 + AI 量化情绪
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/JunQHuang/policy_analysis_system"><img src="https://github.com/user-attachments/assets/e3c4d39f-fe8a-41e6-b92d-6756a8212599" width="100%" height="300"><br><b>政策分析系统</b></a><br>RAG + Milvus + LLM Agent
+<a href="https://github.com/JunQHuang/policy_analysis_system"><img src="https://github.com/user-attachments/assets/e3c4d39f-fe8a-41e6-b92d-6756a8212599" width="100%"><br><b>政策分析系统</b></a><br>RAG + Milvus + LLM Agent
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/JunQHuang/Shan-Hai-Jing-Style-Transfer"><img src="https://raw.githubusercontent.com/JunQHuang/Shan-Hai-Jing-Style-Transfer/main/screenshots/示例1.png" width="100%" height="300"><br><b>山海经风格迁移</b></a><br>SD + LoRA + ControlNet
+<a href="https://github.com/JunQHuang/Shan-Hai-Jing-Style-Transfer"><img src="https://raw.githubusercontent.com/JunQHuang/Shan-Hai-Jing-Style-Transfer/main/screenshots/示例1.png" width="100%"><br><b>山海经风格迁移</b></a><br>SD + LoRA + ControlNet
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/JunQHuang/MultiExpert-Sentiment"><img src="https://github.com/user-attachments/assets/3dbd753c-11c4-4808-bbdb-fc891c9ef615" width="100%" height="300"><br><b>多专家情感分析</b></a><br>IEEE SmartIoT 2024
+<a href="https://github.com/JunQHuang/MultiExpert-Sentiment"><img src="https://github.com/user-attachments/assets/3dbd753c-11c4-4808-bbdb-fc891c9ef615" width="100%"><br><b>多专家情感分析</b></a><br>IEEE SmartIoT 2024
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/JunQHuang/AI-Ziwei-Fortune-Destiny"><img src="https://github.com/user-attachments/assets/25a97c1f-0d34-4291-adfc-60deba0c4322" width="100%" height="300"><br><b>紫微斗数 AI</b></a><br>Next.js + OpenAI
+<a href="https://github.com/JunQHuang/AI-Ziwei-Fortune-Destiny"><img src="https://github.com/user-attachments/assets/25a97c1f-0d34-4291-adfc-60deba0c4322" width="100%"><br><b>紫微斗数 AI</b></a><br>Next.js + OpenAI
 </td>
 </tr>
 </table>
