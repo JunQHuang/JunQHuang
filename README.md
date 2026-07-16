@@ -27,7 +27,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/JunQHuang/shiji-ai-personality"><img src="https://github.com/user-attachments/assets/465a1a61-bae8-423a-a892-9f309ca3cd6f" width="100%"><br><b>识己</b></a><br>AI性格画像 · 100+付费用户 · 已上线
+<a href="https://github.com/JunQHuang/shiji-ai-personality"><img src="https://github.com/user-attachments/assets/465a1a61-bae8-423a-a892-9f309ca3cd6f" width="100%"><br><b>识己</b></a><br>AI性格画像 · 已上线
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/JunQHuang/a-stock-sentiment-panel"><img src="https://github.com/user-attachments/assets/1b59de3b-5871-4206-87e0-56f319cdcdfa" width="100%"><br><b>A股情绪面板</b></a><br>多源数据 + AI 量化情绪
