@@ -7,7 +7,7 @@
 <tr>
 <td align="center" width="50%">
 <a href="https://agentos-prod-creekstone.boids.ai/"><img src="https://github.com/user-attachments/assets/236a79f2-6730-477b-a52c-3758b7cde5d8" width="100%" alt="VC AgentOS"></a><br>
-<b>VC AgentOS</b><br>
+<b>AgentOS</b><br>
 AI 原生创投智能工作台<br>
 <a href="https://agentos-prod-creekstone.boids.ai/">Live</a> · <a href="https://github.com/JunQHuang/VC-AgentOS">GitHub</a>
 </td>
