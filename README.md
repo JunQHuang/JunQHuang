@@ -9,14 +9,13 @@
 <a href="https://agentos-prod-creekstone.boids.ai/"><img src="https://github.com/user-attachments/assets/236a79f2-6730-477b-a52c-3758b7cde5d8" width="100%" alt="VC AgentOS"></a><br>
 <b>AgentOS</b><br>
 AI 原生创投智能工作台<br>
-<a href="https://agentos-prod-creekstone.boids.ai/">Live</a> · <a href="https://github.com/JunQHuang/VC-AgentOS">GitHub</a>
+<a href="https://agentos-prod-creekstone.boids.ai/">Live</a>
 </td>
 <td align="center" width="50%">
 <a href="https://creekstonevc.com/"><img src="https://github.com/user-attachments/assets/f2fda61e-d3ee-4599-8b83-5353c4f9550a" width="100%" alt="VC Digital Human"></a><br>
 <b>VC Digital Human</b><br>
 AI VC 数字人<br>
-<a href="https://creekstonevc.com/">Website</a> · <a href="https://github.com/JunQHuang/vc-digital-human">GitHub</a>
-</td>
+<a href="https://creekstonevc.com/">Website</a>
 </tr>
 </table>
 
