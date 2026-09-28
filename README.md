@@ -12,8 +12,9 @@ AI 原生创投智能工作台<br>
 <a href="https://agentos-prod-creekstone.boids.ai/">Live</a>
 </td>
 <td align="center" width="50%">
-<a href="https://creekstonevc.com/"><img src="https://github.com/user-attachments/assets/f2fda61e-d3ee-4599-8b83-5353c4f9550a" width="100%" alt="VC Digital Human"></a><br>
+<a href="https://creekstonevc.com/"><img src="https://github.com/user-attachments/assets/496ee160-4c82-440b-80d0-febac3d66cb6" width="100%" alt="VC Digital Human"></a><br>
 <b>VC Digital Human</b><br>
+
 AI VC 数字人<br>
 <a href="https://creekstonevc.com/">Website</a>
 </tr>
